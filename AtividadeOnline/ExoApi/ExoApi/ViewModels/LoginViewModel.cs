@@ -1,0 +1,14 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ExoApi.ViewModels
+{
+    public class LoginViewModel
+    {
+        [Required(ErrorMessage = "Campo E-mail Requerido")]
+        public string Email { get; set; }
+
+        [Required(ErrorMessage = "Campo Senha Requerido")]
+        public string Senha { get; set; }
+
+    }
+}

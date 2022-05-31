@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FTWGbKAo0X/inQqn0RGO9H3zkAzvpFY0PQH3OflfWkaKZaIgsFZBTIPwwkx2ZHJ+796FTm3pt2WMpjuETMdjzQ==",
+  "dgSpecHash": "0iLhERJPB9TZARuoVdq85r2citv1CSgRiYFGEJSU9uUox7jRGhUnY0hfXTy7RL4JQYNLsVIPs2YktUqzikYQ9A==",
   "success": true,
-  "projectFilePath": "D:\\Ryan\\Senai\\Uc14\\EncontroRemotos\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
+  "projectFilePath": "D:\\Ryan\\Senai\\Uc14\\Chapter\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryan & Kerollyn\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.5\\microsoft.aspnetcore.authentication.jwtbearer.6.0.5.nupkg.sha512",
     "C:\\Users\\Ryan & Kerollyn\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -2011,11 +2011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ryan\\Senai\\Uc14\\EncontroRemotos\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
+      "projectUniqueName": "D:\\Ryan\\Senai\\Uc14\\Chapter\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
       "projectName": "ChapterFST1",
-      "projectPath": "D:\\Ryan\\Senai\\Uc14\\EncontroRemotos\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
+      "projectPath": "D:\\Ryan\\Senai\\Uc14\\Chapter\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
       "packagesPath": "C:\\Users\\Ryan & Kerollyn\\.nuget\\packages\\",
-      "outputPath": "D:\\Ryan\\Senai\\Uc14\\EncontroRemotos\\ChapterFST1\\ChapterFST1\\obj\\",
+      "outputPath": "D:\\Ryan\\Senai\\Uc14\\Chapter\\ChapterFST1\\ChapterFST1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryan & Kerollyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
